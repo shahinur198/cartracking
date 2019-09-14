@@ -20,3 +20,5 @@ https://www.techshopbd.com/product-categories/sensors/2535/9-dof-accelerometer-g
 https://forum.arduino.cc/index.php?topic=499306.0
 
 https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
+
+https://www.electronicwings.com/arduino/gps-module-interfacing-with-arduino-uno
