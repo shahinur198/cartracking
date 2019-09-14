@@ -22,3 +22,8 @@ https://forum.arduino.cc/index.php?topic=499306.0
 https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
 
 https://www.electronicwings.com/arduino/gps-module-interfacing-with-arduino-uno
+
+# bangla tutorial
+https://www.youtube.com/watch?v=7nnw78eVepA&list=UUVnAlFrK2mxVmnM_HTkAKlQ&index=17
+
+https://www.youtube.com/watch?v=TMwjdQRP_ic
