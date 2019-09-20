@@ -30,3 +30,6 @@ https://www.youtube.com/watch?v=TMwjdQRP_ic
 
 # GSM with Arduino - HTTP GET REQUEST - Retrieve Data from Webpage
 https://www.youtube.com/watch?v=bzNE3DNanu0
+
+# GPRS HTTP Post Request with Arduino
+https://www.youtube.com/watch?v=jHvoLgOWdMM
