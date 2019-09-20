@@ -27,3 +27,6 @@ https://www.electronicwings.com/arduino/gps-module-interfacing-with-arduino-uno
 https://www.youtube.com/watch?v=7nnw78eVepA&list=UUVnAlFrK2mxVmnM_HTkAKlQ&index=17
 
 https://www.youtube.com/watch?v=TMwjdQRP_ic
+
+# GSM with Arduino - HTTP GET REQUEST - Retrieve Data from Webpage
+https://www.youtube.com/watch?v=bzNE3DNanu0
