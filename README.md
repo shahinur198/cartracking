@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=bzNE3DNanu0
 
 # GPRS HTTP Post Request with Arduino
 https://www.youtube.com/watch?v=jHvoLgOWdMM
+
+# Send live video
+https://www.youtube.com/watch?v=foR6ugxUnTc
