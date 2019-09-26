@@ -36,3 +36,7 @@ https://www.youtube.com/watch?v=jHvoLgOWdMM
 
 # Send live video
 https://www.youtube.com/watch?v=foR6ugxUnTc
+
+# Strong GPS
+https://store.roboticsbd.com/plc-programming-cable/797-u-blox-neo-6m-gps-module-robotics-bangladesh.html
+
