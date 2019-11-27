@@ -43,3 +43,6 @@ https://store.roboticsbd.com/plc-programming-cable/797-u-blox-neo-6m-gps-module-
 
 # IR Receiver
 https://components101.com/tsop1738-ir-receiver
+
+# Tensorflow on raspberry-pi
+https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
