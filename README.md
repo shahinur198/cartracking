@@ -46,3 +46,6 @@ https://components101.com/tsop1738-ir-receiver
 
 # Tensorflow on raspberry-pi
 https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
+
+https://www.hackster.io/news/benchmarking-machine-learning-on-the-new-raspberry-pi-4-model-b-88db9304ce4
+
