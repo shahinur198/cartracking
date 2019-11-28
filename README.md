@@ -55,6 +55,14 @@ https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/
 
 https://store.roboticsbd.com/sensors/688-rf-transmitter-receiver-pair-433-mhz-robotics-bangladesh.html
 
+https://www.techshopbd.com/product-categories/rf/640/rf-transmitter-receiver-pair-433-mhz-fs1000a-techshop-bangladesh
+
+https://www.elprocus.com/rf-module-transmitter-receiver/
+
+https://www.instructables.com/id/RF-Transmitter-and-Receiver/
+
+https://en.wikipedia.org/wiki/RF_module
+
 
 # Tensorflow on raspberry-pi
 https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
