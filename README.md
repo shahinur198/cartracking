@@ -49,6 +49,10 @@ https://www.instructables.com/id/Arduino-IR-Remote-Control/
 .. good
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 
+https://www.electronicshub.org/arduino-rf-transmitter-receiver-module/
+
+https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/
+
 
 # Tensorflow on raspberry-pi
 https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
