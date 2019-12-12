@@ -48,6 +48,7 @@ https://www.instructables.com/id/Arduino-IR-Remote-Control/
 
 https://randomnerdtutorials.com/arduino-ir-remote-control/
 
+ IR Transmitter
 http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html
 
 https://www.youtube.com/watch?v=WuXirxQEneA
