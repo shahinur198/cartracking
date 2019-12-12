@@ -48,6 +48,8 @@ https://www.instructables.com/id/Arduino-IR-Remote-Control/
 
 https://randomnerdtutorials.com/arduino-ir-remote-control/
 
+http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html
+
 .. good
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 
