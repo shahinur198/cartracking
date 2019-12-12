@@ -46,6 +46,8 @@ https://components101.com/tsop1738-ir-receiver
 
 https://www.instructables.com/id/Arduino-IR-Remote-Control/
 
+https://randomnerdtutorials.com/arduino-ir-remote-control/
+
 .. good
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 
