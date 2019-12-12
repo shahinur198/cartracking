@@ -41,19 +41,23 @@ https://www.youtube.com/watch?v=foR6ugxUnTc
 https://store.roboticsbd.com/plc-programming-cable/797-u-blox-neo-6m-gps-module-robotics-bangladesh.html
 
 
+
+# IR Transmitter
+ 
+ https://www.instructables.com/id/IR-Transmitter-and-Receiver-Using-Arduino/
+ 
+ https://www.rapidtables.com/convert/number/hex-to-decimal.html
+ 
+http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html
+
+https://www.youtube.com/watch?v=WuXirxQEneA
+
 # IR Receiver
 https://components101.com/tsop1738-ir-receiver
 
 https://www.instructables.com/id/Arduino-IR-Remote-Control/
 
 https://randomnerdtutorials.com/arduino-ir-remote-control/
-
- IR Transmitter
- https://www.instructables.com/id/IR-Transmitter-and-Receiver-Using-Arduino/
- 
-http://www.righto.com/2009/08/multi-protocol-infrared-remote-library.html
-
-https://www.youtube.com/watch?v=WuXirxQEneA
 
 .. good
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
