@@ -82,3 +82,5 @@ https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-rasp
 
 https://www.hackster.io/news/benchmarking-machine-learning-on-the-new-raspberry-pi-4-model-b-88db9304ce4
 
+# app
+https://stackoverflow.com/questions/25637409/upload-video-on-youtube-from-android-application
