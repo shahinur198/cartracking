@@ -84,3 +84,5 @@ https://www.hackster.io/news/benchmarking-machine-learning-on-the-new-raspberry-
 
 # app
 https://stackoverflow.com/questions/25637409/upload-video-on-youtube-from-android-application
+
+https://developers.google.com/photos/library/guides/get-started-java
