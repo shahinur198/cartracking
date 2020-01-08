@@ -87,3 +87,6 @@ https://www.hackster.io/news/benchmarking-machine-learning-on-the-new-raspberry-
 https://stackoverflow.com/questions/25637409/upload-video-on-youtube-from-android-application
 
 https://developers.google.com/photos/library/guides/get-started-java
+
+# bluetooth
+http://www.ashopbd.com/product/bluetooth-audio-receiver-template-stereo-wireless-speaker-power-amplifier-modified-diy-bluetooth-module-4-0/
