@@ -92,3 +92,6 @@ https://developers.google.com/photos/library/guides/get-started-java
 http://www.ashopbd.com/product/bluetooth-audio-receiver-template-stereo-wireless-speaker-power-amplifier-modified-diy-bluetooth-module-4-0/
 
 https://randomnerdtutorials.com/getting-started-with-esp32/
+
+# Yolo
+https://pjreddie.com/darknet/yolo/
