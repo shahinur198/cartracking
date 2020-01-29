@@ -95,3 +95,6 @@ https://randomnerdtutorials.com/getting-started-with-esp32/
 
 # Yolo
 https://pjreddie.com/darknet/yolo/
+
+
+https://www.youtube.com/watch?v=RMcTCjk4ZXo
