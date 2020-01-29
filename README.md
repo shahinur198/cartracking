@@ -98,3 +98,5 @@ https://pjreddie.com/darknet/yolo/
 
 
 https://www.youtube.com/watch?v=RMcTCjk4ZXo
+
+https://www.prohori.com/pricing/
