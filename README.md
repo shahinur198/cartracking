@@ -42,7 +42,9 @@ https://store.roboticsbd.com/plc-programming-cable/797-u-blox-neo-6m-gps-module-
 
 https://www.allmartbd.com/electronics-172/a9g-gprs-gps-module.html
 
+https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad
 
+https://www.youtube.com/watch?v=9UEcT5GxdBk
 
 # IR Transmitter
  
